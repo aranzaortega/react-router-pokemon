@@ -1,3 +1,7 @@
-# react-pybygu
+# React JS Router Practice
+Using Switch, Link, Router and Zustand instead of Context API
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-pybygu)
+Edited on StackBlitz, guided by Udemy's Course
+
+
+
